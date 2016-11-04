@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.0'
 
-gem 'spring', github: 'nate_12/spring', branch: 'bundler-dep'
+
 
 
 gem 'thin'
@@ -23,7 +23,7 @@ end
 group :development do
   gem 'web-console',           '3.1.1'
   gem 'listen',                '3.0.8'
-  gem 'spring',                '1.7.2'
+ gem 'spring', github: 'nate_12/spring', branch: 'bundler-dep'
   gem 'spring-watcher-listen', '2.0.0'
 end
 
