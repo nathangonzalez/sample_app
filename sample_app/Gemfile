@@ -1,11 +1,14 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD:sample_app/Gemfile
 ruby '2.3.0'
 
 
 
 
 gem 'thin'
+=======
+>>>>>>> b74f0d087d153f2cb09079a5c0550534fa5911f2:Gemfile
 gem 'rails',        '5.0.0.1'
 gem 'puma',         '3.4.0'
 gem 'sass-rails',   '5.0.6'
