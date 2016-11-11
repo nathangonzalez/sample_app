@@ -22,4 +22,8 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+<<<<<<< HEAD
 >>>>>>> 0b57cea4656d7b9da8bd38ce91e0c17c0cb175c3
+=======
+>>>>>>> 147e34f92d26f4d2ead0be9b4ca594a74b7ac238
+>>>>>>> f00f1e5a05d3dd0caf38e11561b0c305ecfe879d
